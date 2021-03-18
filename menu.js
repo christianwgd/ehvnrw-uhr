@@ -3,15 +3,10 @@ const path = require('path');
 const {app, Menu, shell} = require('electron');
 const {
 	is,
-	appMenu,
 	aboutMenuItem,
 	openUrlMenuItem
 } = require('electron-util');
 const config = require('./config');
-
-const showPreferences = () => {
-	// Show the app's preferences here
-};
 
 const helpSubmenu = [
 	openUrlMenuItem({
