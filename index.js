@@ -13,7 +13,7 @@ debug();
 contextMenu();
 
 // Note: Must match `build.appId` in package.json
-app.setAppUserModelId('com.eisadler.uhr');
+app.setAppUserModelId('com.ehvnrw.uhr');
 
 // Uncomment this before publishing your first version.
 // It's commented out as it throws an error if there are no published versions.

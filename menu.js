@@ -11,11 +11,11 @@ const config = require('./config');
 const helpSubmenu = [
 	openUrlMenuItem({
 		label: 'Webseite',
-		url: 'https://eisadler.com'
+		url: 'https://ehv-nrw.de'
 	}),
 	openUrlMenuItem({
 		label: 'Source Code',
-		url: 'https://github.com/christianwgd/eisadler-uhr.git'
+		url: 'https://github.com/christianwgd/ehvnrw-uhr.git'
 	})
 ];
 

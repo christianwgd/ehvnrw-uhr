@@ -3,7 +3,7 @@
 ![](https://badgen.net/badge/platform/windows/green?icon=windows)
 ![](https://badgen.net/badge/platform/linux/green?icon=linux)
 
-# Eisadler Uhr
+# EHV-NRW Uhr
 
 Desktop App der EHV-NRW Uhr
 
