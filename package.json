@@ -2,7 +2,7 @@
 	"name": "ehvnrw-uhr",
 	"productName": "EHV-NRW Uhr",
 	"version": "1.0.0",
-	"description": "Uhr im Design des EHV-NRW",
+	"description": "Uhr im Design des EHV-NRW e.V.",
 	"license": "MIT",
 	"repository": "https://github.com/christianwgd/ehvnrw-uhr",
 	"author": {
@@ -48,7 +48,7 @@
 	"build": {
 		"appId": "com.ehvnrw.uhr",
 		"mac": {
-			"category": "public.app-category.social-networking",
+			"category": "public.app-category.utilities",
 			"darkModeSupport": true
 		},
 		"dmg": {
